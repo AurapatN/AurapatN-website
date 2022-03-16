@@ -1,11 +1,11 @@
 ---
-title: Blog
+title: Publications
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: 
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# <i class="fas fa-feather-alt"></i>Publications
 
 {% include section.html %}
 
