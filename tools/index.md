@@ -1,8 +1,8 @@
 ---
-title: Tools
+title: Networking
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Our Collaborations
 ---
 
 # <i class="fas fa-tools"></i>Tools
