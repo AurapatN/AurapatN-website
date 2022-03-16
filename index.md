@@ -2,10 +2,9 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Chemistry at XXX
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Our chemistry laboratories at the institute consists of a) natural products , b) medicinal chemistry , and c) organic synthesis laboratories. We work collaboratively with the goal to expand the frontiers in organic chemistry and establish a drug discovery program in Thailand.
 
 {%
   include link.html
