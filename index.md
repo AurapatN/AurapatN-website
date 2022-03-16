@@ -39,7 +39,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="See our research programs"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -61,7 +61,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include link.html
   link="tools"
-  text="Browse our tools"
+  text="Our collaborations"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -72,7 +72,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include feature.html
   image="images/photo.jpg"
   link="resources"
-  title="Our Resources"
+  title="Networking"
   flip=true
   text=text
 %}
